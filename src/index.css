@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&family=League+Spartan&display=swap');
+
+
+.boxshadow {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.gilda{
+    font-family: 'Gilda Display', serif;
+}
+
+.spartan{
+    font-family: 'League Spartan', sans-serif;
+}
+
